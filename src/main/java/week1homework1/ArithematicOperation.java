@@ -4,11 +4,11 @@ public class ArithematicOperation {
 	int numberOne=22 ;
 	int numberTwo=44;
 	int sub;int mul;int div;int mul2;int sum;
-public void additionOfTwoNumbers() {
+/*public void additionOfTwoNumbers() {
 	//updated by Mounika Chitra
 	
 	System.out.println(sum=numberOne + numberTwo);
-	}
+	}*/// commented
 /*public int substractionOfTwoNumbers() {
 		//System.out.println("Enter two Number");
 		System.out.println(sub=numberOne - numberTwo);
