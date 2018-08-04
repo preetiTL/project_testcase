@@ -9,7 +9,7 @@ public void additionOfTwoNumbers() {
 	
 	System.out.println(sum=numberOne + numberTwo);
 	}
-public int substraction() {
+public int substractionOfTwoNumbers() {
 		//System.out.println("Enter two Number");
 		System.out.println(sub=numberOne - numberTwo);
 		return sub;
