@@ -9,11 +9,11 @@ public void additionOfTwoNumbers() {
 	
 	System.out.println(sum=numberOne + numberTwo);
 	}
-public int substractionOfTwoNumbers() {
+/*public int substractionOfTwoNumbers() {
 		//System.out.println("Enter two Number");
 		System.out.println(sub=numberOne - numberTwo);
 		return sub;
-		}
+		}*/ // Commented by Nithya Preethi
 public int multiplication() {
 		
 		//System.out.println("Enter two Number");
